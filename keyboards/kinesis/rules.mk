@@ -15,5 +15,7 @@ COMMAND_ENABLE = no
 NKRO_ENABLE = no            # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 AUDIO_ENABLE = no           # Audio output
+CAP_WORD_ENABLE = yes
+
 
 DEFAULT_FOLDER = kinesis/alvicstep

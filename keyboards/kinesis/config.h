@@ -31,6 +31,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MOUSEKEY_WHEEL_DELTA 1
 #define MOUSEKEY_WHEEL_TIME_TO_MAX 1
 
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5
 
